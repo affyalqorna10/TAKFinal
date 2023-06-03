@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register - Negative - Email kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e12eddf7-cf78-45e7-a70d-7de673c1fcc1</testCaseGuid>
+</TestCaseEntity>

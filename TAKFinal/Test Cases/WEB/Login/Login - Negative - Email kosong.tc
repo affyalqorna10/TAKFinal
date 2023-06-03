@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Negative - Email kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6edda94b-797e-4453-a2b2-9e5c498c83b0</testCaseGuid>
+</TestCaseEntity>
